@@ -1,2 +1,2 @@
 # D-Eject
-Disk Eject/Mount Tool
+Disc Eject/Mount Tool
